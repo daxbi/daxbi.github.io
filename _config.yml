@@ -1,3 +1,7 @@
+# Site settings
 theme: jekyll-theme-minimal
-title: daxbi homepage
-description: Bookmark this to keep an eye on my project updates!
+title: daxbi
+description: Underhåller och utvecklar PBI-lösningar
+
+# Build settings
+markdown: kramdown
