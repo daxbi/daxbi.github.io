@@ -38,6 +38,14 @@ nav ul li a {
     text-align: center;
 }
 
+/* Styles for other sections like services and about */
+#services, #about {
+    background-color: #36454F;
+    color: white;
+    padding: 2rem;
+    margin: 1rem 0;
+}
+
 .hero h1 {
     font-size: 3rem;
     margin: 0;
