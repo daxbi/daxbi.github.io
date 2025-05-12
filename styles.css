@@ -48,7 +48,7 @@ nav ul li a {
 }
 
 /* Styles for other sections like services and about */
-#services, #about {
+section {
     background-color: #36454F;
     color: white;
     padding: 2rem;
