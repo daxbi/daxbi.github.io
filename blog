@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PBI Help Blog</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Hem</a></li>
+                <li><a href="blog/blog.html">Blog</a></li>
+                <li><a href="mailto:your-email@example.com">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="blog">
+            <h1>The Blog</h1>
+            <div class="blog-posts">
+                <!-- Blog posts will be added here -->
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 DaxPBI No rights reserved.</p>
+    </footer>
+</body>
+</html>
