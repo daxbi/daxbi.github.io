@@ -79,6 +79,11 @@ footer {
     width: 100%;
 }
 
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     nav ul {
