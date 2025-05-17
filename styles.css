@@ -117,6 +117,17 @@ footer a {
     gap: 1rem;
 }
 
+
+.blog-posts a {
+    color: white; /* Set the text color to white */
+    text-decoration: none; /* Remove the underline from links */
+}
+
+.blog-posts a:hover {
+    text-decoration: underline; /* Underline links on hover */
+}
+
+
 .blog-post {
     background-color: #36454F;
     color: white;
